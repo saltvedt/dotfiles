@@ -1,0 +1,10 @@
+[ui]
+username = Torstein Saltvedt <torstein.saltvedt@gmail.com>
+
+[extensions]
+color =
+hgext.fetch =
+graphlog =
+hgext.purge=
+hgext.convert=
+hgext.mq=
