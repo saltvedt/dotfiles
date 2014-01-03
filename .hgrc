@@ -1,6 +1,11 @@
 [ui]
 username = Torstein Saltvedt <torstein.saltvedt@gmail.com>
 
+[auth]
+kiln.prefix = https://globalit.kilnhg.com/
+kiln.username = secret
+kiln.password = not-used
+
 [extensions]
 color =
 hgext.fetch =
