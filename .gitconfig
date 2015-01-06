@@ -3,3 +3,12 @@
 	email = torstein.saltvedt@gmail.com
 [color]
 	ui = true
+[alias]
+	ci = commit
+	co = checkout
+	df = diff
+	ds = diff --cached
+	st = status
+	br = branch
+	unstage = reset HEAD
+	pff = fetch --ff-only
