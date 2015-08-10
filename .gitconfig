@@ -11,4 +11,7 @@
 	st = status
 	br = branch
 	unstage = reset HEAD
-	pff = fetch --ff-only
+	pff = pull --ff-only
+	discard = checkout --
+[push]
+	default = matching
